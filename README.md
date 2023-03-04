@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently polishing my web development skills.<br>Aims to add value to society.<br>Want to contribute to open source projects<br>Can join me and take my help.<br>
+I'm currently polishing my web development skills.<br>Aims to add value to society.<br>Want to contribute to open source projects<br>Can join me <br>
 https://takshilaa.github.io/Takshila-s-Personal-Site/
 
 
